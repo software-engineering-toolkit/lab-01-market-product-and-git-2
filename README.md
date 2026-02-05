@@ -6,7 +6,6 @@ To kickstart the course, you will explore two things:
 2. What kind of engineers may build and operate them.
 
 ## Table of contents
-
 - [Table of contents](#table-of-contents)
 - [Learning outcomes](#learning-outcomes)
 - [Tasks overview](#tasks-overview)
